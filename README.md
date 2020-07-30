@@ -1,2 +1,2 @@
 # robotics_sw_engineer_nd
-Repo contains all nanodegree projects
+Repo contains all the nanodegree projects
