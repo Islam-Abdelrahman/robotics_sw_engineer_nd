@@ -1,0 +1,3 @@
+/home/exx0/udacity_project/build/CMakeFiles/edit_cache.dir
+/home/exx0/udacity_project/build/CMakeFiles/rebuild_cache.dir
+/home/exx0/udacity_project/build/CMakeFiles/welcome.dir
